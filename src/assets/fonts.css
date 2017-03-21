@@ -1,0 +1,195 @@
+@font-face {
+    font-family: 'GianottenLT';
+    src: url('GianottenLT.eot?#iefix') format('embedded-opentype'),
+    url('GianottenLT.woff2') format('woff2'),
+    url('GianottenLT.woff') format('woff'),
+    url('GianottenLT.ttf') format('truetype'),
+    url('GianottenLT.otf'),
+    url('GianottenLT.svg#GianottenLT') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GillSansLight';
+    src: url('GillSansLight.eot?#iefix') format('embedded-opentype'),
+    url('GillSansLight.woff2') format('woff2'),
+    url('GillSansLight.woff') format('woff'),
+    url('GillSansLight.ttf') format('truetype'),
+    url('GillSansLight.otf'),
+    url('GillSansLight.svg#GillSansLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GillSansSemibold';
+    src: url('GillSansSemibold.eot');
+    src: url('GillSansSemibold.eot?#iefix') format('embedded-opentype'),
+    url('GillSansSemibold.woff2') format('woff2'),
+    url('GillSansSemibold.woff') format('woff'),
+    url('GillSansSemibold.ttf') format('truetype'),
+    url('GillSansSemibold.svg#gill_sanssemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'icomoon';
+	src:url('icomoon.eot?82h7fb');
+	src:url('icomoon.eot?82h7fb#iefix') format('embedded-opentype'),
+		url('icomoon.ttf?82h7fb') format('truetype'),
+		url('icomoon.woff?82h7fb') format('woff'),
+		url('icomoon.svg?82h7fb#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pause:before {
+    content: "\e90b";
+}
+.icon-play:before {
+    content: "\e90c";
+}
+.icon-stop:before {
+    content: "\e90d";
+}
+.icon-ruler:before {
+    content: "\e90a";
+}
+.icon-CIRCLE:before {
+    content: "\e903";
+}
+.icon-TICK:before {
+    content: "\e904";
+}
+.icon-DROPDOWN:before {
+    content: "\e902";
+}
+.icon-PHONE:before {
+    content: "\e901";
+}
+.icon-CURRENCYEX:before {
+	content: "\e800";
+}
+.icon-WIFI:before {
+	content: "\e801";
+}
+.icon-STORELOCATOR1:before {
+	content: "\e802";
+}
+.icon-STORELOCATOR:before {
+	content: "\e803";
+}
+.icon-REFRESH:before {
+	content: "\e804";
+}
+.icon-RETURNS1:before {
+	content: "\e805";
+}
+.icon-RETURNS:before {
+	content: "\e806";
+}
+.icon-GIFTCARD:before {
+	content: "\e807";
+}
+.icon-HEART:before {
+	content: "\e808";
+}
+.icon-INTERNATIONALDELIVERY:before {
+	content: "\e809";
+}
+.icon-CLICK_COLLECT:before {
+	content: "\e80a";
+}
+.icon-DELIVERY:before {
+	content: "\e80b";
+}
+.icon-EXPRESSDELIVERY:before {
+	content: "\e80c";
+}
+.icon-HAMBURGER:before {
+	content: "\e80d";
+}
+.icon-EMAIL1:before {
+	content: "\e80e";
+}
+.icon-EMAIL:before {
+	content: "\e80f";
+}
+.icon-BOOKMARK:before {
+	content: "\e810";
+}
+.icon-FAVOURITES:before {
+	content: "\e811";
+}
+.icon-ACCOUNT:before {
+	content: "\e812";
+}
+.icon-BAG:before {
+	content: "\e813";
+}
+.icon-BAG2:before {
+    content: "\e900";
+}
+.icon-SEARCH:before {
+	content: "\e814";
+}
+.icon-CROSS:before, .fancybox-close:before {
+	content: "\e815";
+}
+.icon-ARROW4:before {
+	content: "\e816";
+}
+.icon-ARROW3:before {
+	content: "\e817";
+}
+.icon-ARROW2:before {
+	content: "\e818";
+}
+.icon-ARROW1:before {
+	content: "\e819";
+}
+.icon-YOUTUBE:before {
+	content: "\e81a";
+}
+.icon-PINTREST:before {
+	content: "\e81b";
+}
+.icon-INSTAGRAM:before {
+	content: "\e81c";
+}
+.icon-TWITTER:before {
+	content: "\e81d";
+}
+.icon-FB:before {
+	content: "\e81e";
+}
+.icon-FACEBOOK-outline:before {
+    content: "\e905";
+}
+.icon-INSTAGRAM-outline:before {
+    content: "\e906";
+}
+.icon-PINTREST-outline:before {
+    content: "\e907";
+}
+.icon-TWITTER-outline:before {
+    content: "\e908";
+}
+.icon-YOUTUBE-outline:before {
+    content: "\e909";
+}

@@ -1,0 +1,58 @@
+.carousel-image {
+    height:650px !important;
+}
+.full-width {
+    width:100%;
+}
+.full-height {
+    height:100%;
+}
+.home-tile-height {
+    height:400px
+}
+.tile-padding {
+    padding:10px 20px 10px 20px;
+}
+.custom-navbar {
+    margin-bottom:0px !important;
+}
+.GianottenLT {
+    font-family: "GianottenLT", Georgia, Times, "Times New Roman", serif;
+}
+.banner-title {
+	font-size:18px !important;
+}
+@font-face {
+    font-family: 'GianottenLT';
+    src: url('GianottenLT.eot?#iefix') format('embedded-opentype'),
+    url('GianottenLT.woff2') format('woff2'),
+    url('GianottenLT.woff') format('woff'),
+    url('GianottenLT.ttf') format('truetype'),
+    url('GianottenLT.otf'),
+    url('GianottenLT.svg#GianottenLT') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GillSansLight';
+    src: url('GillSansLight.eot?#iefix') format('embedded-opentype'),
+    url('GillSansLight.woff2') format('woff2'),
+    url('GillSansLight.woff') format('woff'),
+    url('GillSansLight.ttf') format('truetype'),
+    url('GillSansLight.otf'),
+    url('GillSansLight.svg#GillSansLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GillSansSemibold';
+    src: url('GillSansSemibold.eot');
+    src: url('GillSansSemibold.eot?#iefix') format('embedded-opentype'),
+    url('GillSansSemibold.woff2') format('woff2'),
+    url('GillSansSemibold.woff') format('woff'),
+    url('GillSansSemibold.ttf') format('truetype'),
+    url('GillSansSemibold.svg#gill_sanssemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
